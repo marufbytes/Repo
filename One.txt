@@ -1,0 +1,4 @@
+git rm "file name"
+git add "new file"
+git commit -m "replace this file with new file"
+git push origin master
